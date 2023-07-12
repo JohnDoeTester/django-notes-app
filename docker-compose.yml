@@ -3,4 +3,4 @@ services :
   web :
      image : johndoetester/notes-app:latest
      ports :
-         - "8000:8000"
+         - "80:8000"
